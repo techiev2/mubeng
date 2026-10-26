@@ -52,7 +52,7 @@ Options:
                                      If value is less than 0 (e.g., -1), rotation will
                                      continue indefinitely
         --max-redirs <N>             Max. redirects allowed (default: 10)
-    -s, --sync                       Syncrounus mode
+    -s, --sync                       Synchronous mode
     -w, --watch                      Watch proxy file, live-reload from changes
 
 Examples:
